@@ -9,4 +9,6 @@ Bitcoin support donate 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
 Fix /usr/share/applications/budgie-panel.desktop
 
+Gnome control center best https://www.youtube.com/watch?v=AGpgz0mU6PY
+
 
