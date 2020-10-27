@@ -7,4 +7,6 @@ Griggorii@gmail.com real technology
 
 Bitcoin support donate 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
 
+Fix /usr/share/applications/budgie-panel.desktop
+
 
